@@ -11,7 +11,7 @@ I build Umbraco packages and, lately, I build them with AI.
 
 ### What I do
 
-I run Soeteman Software, a small company that focuses on [Umbraco CMS](https://umbraco.com/) development. I have been working with Umbraco since V3 or so, and started building packages for it because I needed them myself on client projects. Some of them are still around and used on a lot of Umbraco sites today.
+I run [https://soetemansoftware.nl/](Soeteman Software), a small company that focuses on [Umbraco CMS](https://umbraco.com/) development. I have been working with Umbraco since V3 or so, and started building packages for it because I needed them myself on client projects. Some of them are still around and used on a lot of Umbraco sites today.
 
 Next to my own products I help clients with their Umbraco projects. Mostly setting things up properly from the start, upgrades from old versions, extending the back-office and lately adding AI where it actually makes sense.
 
